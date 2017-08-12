@@ -1,0 +1,6 @@
+<dependency> 
+		<groupId>mydependency</groupId> 
+		<artifactId>mydependency</artifactId> 
+		<version>1.0</version> 
+		<systemPath>${basedir}\war\WEB-INF\lib\mydependency.jar</systemPath> 
+	</dependency>
